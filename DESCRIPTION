@@ -1,0 +1,6 @@
+Package: renv.demo.installation.moved
+Title: Dummy package to provide new installation location via error message
+Version: 0.0.0.9000
+Description: This package prints an error message upon attempted installation
+License: MIT
+Encoding: UTF-8
